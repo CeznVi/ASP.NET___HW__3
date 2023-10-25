@@ -12,3 +12,17 @@ C:\Users\Admin\Desktop\ASP.NET___HW\HW__3\HW__3_Solution\obj\Debug\net7.0\refint
 C:\Users\Admin\Desktop\ASP.NET___HW\HW__3\HW__3_Solution\obj\Debug\net7.0\HW__3_Solution.pdb
 C:\Users\Admin\Desktop\ASP.NET___HW\HW__3\HW__3_Solution\obj\Debug\net7.0\HW__3_Solution.genruntimeconfig.cache
 C:\Users\Admin\Desktop\ASP.NET___HW\HW__3\HW__3_Solution\obj\Debug\net7.0\ref\HW__3_Solution.dll
+D:\Програмирование\source\repos\ItStep_HW_OOP\ASP.NET___HW__3\HW__3_Solution\bin\Debug\net7.0\HW__3_Solution.exe
+D:\Програмирование\source\repos\ItStep_HW_OOP\ASP.NET___HW__3\HW__3_Solution\bin\Debug\net7.0\HW__3_Solution.deps.json
+D:\Програмирование\source\repos\ItStep_HW_OOP\ASP.NET___HW__3\HW__3_Solution\bin\Debug\net7.0\HW__3_Solution.runtimeconfig.json
+D:\Програмирование\source\repos\ItStep_HW_OOP\ASP.NET___HW__3\HW__3_Solution\bin\Debug\net7.0\HW__3_Solution.dll
+D:\Програмирование\source\repos\ItStep_HW_OOP\ASP.NET___HW__3\HW__3_Solution\bin\Debug\net7.0\HW__3_Solution.pdb
+D:\Програмирование\source\repos\ItStep_HW_OOP\ASP.NET___HW__3\HW__3_Solution\obj\Debug\net7.0\HW__3_Solution.GeneratedMSBuildEditorConfig.editorconfig
+D:\Програмирование\source\repos\ItStep_HW_OOP\ASP.NET___HW__3\HW__3_Solution\obj\Debug\net7.0\HW__3_Solution.AssemblyInfoInputs.cache
+D:\Програмирование\source\repos\ItStep_HW_OOP\ASP.NET___HW__3\HW__3_Solution\obj\Debug\net7.0\HW__3_Solution.AssemblyInfo.cs
+D:\Програмирование\source\repos\ItStep_HW_OOP\ASP.NET___HW__3\HW__3_Solution\obj\Debug\net7.0\HW__3_Solution.csproj.CoreCompileInputs.cache
+D:\Програмирование\source\repos\ItStep_HW_OOP\ASP.NET___HW__3\HW__3_Solution\obj\Debug\net7.0\HW__3_Solution.dll
+D:\Програмирование\source\repos\ItStep_HW_OOP\ASP.NET___HW__3\HW__3_Solution\obj\Debug\net7.0\refint\HW__3_Solution.dll
+D:\Програмирование\source\repos\ItStep_HW_OOP\ASP.NET___HW__3\HW__3_Solution\obj\Debug\net7.0\HW__3_Solution.pdb
+D:\Програмирование\source\repos\ItStep_HW_OOP\ASP.NET___HW__3\HW__3_Solution\obj\Debug\net7.0\HW__3_Solution.genruntimeconfig.cache
+D:\Програмирование\source\repos\ItStep_HW_OOP\ASP.NET___HW__3\HW__3_Solution\obj\Debug\net7.0\ref\HW__3_Solution.dll
