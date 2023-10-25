@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNote xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Note>
+    <NoteName>Test</NoteName>
+    <NoteText>Test notes start this</NoteText>
+    <DateCreation>2023-10-25T23:40:03.786576+03:00</DateCreation>
+    <Tags>
+      <string>test</string>
+      <string>notes for test</string>
+    </Tags>
+  </Note>
+  <Note>
+    <NoteName>Test2</NoteName>
+    <NoteText>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</NoteText>
+    <DateCreation>2023-10-25T23:40:03.7924672+03:00</DateCreation>
+    <Tags>
+      <string>test</string>
+      <string>New</string>
+    </Tags>
+  </Note>
+  <Note>
+    <NoteName>Test21</NoteName>
+    <NoteText>Test21-----1daysy</NoteText>
+    <DateCreation>2023-10-24T23:40:03.7924711+03:00</DateCreation>
+    <Tags>
+      <string>sadasd</string>
+    </Tags>
+  </Note>
+  <Note>
+    <NoteName>11Test21</NoteName>
+    <NoteText>Test12-----12daysy</NoteText>
+    <DateCreation>2023-10-13T23:40:03.7924766+03:00</DateCreation>
+  </Note>
+</ArrayOfNote>

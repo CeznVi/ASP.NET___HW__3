@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "HW__3_Solution/1.0.0": {
+        "runtime": {
+          "HW__3_Solution.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HW__3_Solution/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
