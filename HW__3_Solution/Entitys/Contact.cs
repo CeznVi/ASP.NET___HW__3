@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace HW__3_Solution.Entitys
 {
+    [Serializable]
     public class Contact
     {
         public string Name { get; set; }
