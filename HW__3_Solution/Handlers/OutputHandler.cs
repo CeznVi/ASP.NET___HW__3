@@ -1,4 +1,5 @@
 ﻿using HW__3_Solution.Entity;
+using HW__3_Solution.Entitys;
 using System.Runtime;
 using System.Text;
 
@@ -9,6 +10,8 @@ namespace HW__3_Solution.Handlers
         public void Show(List<Note> notes);
         public void Show(List<string> strings);
 
+
+        public void Show(List<Contact> contactsList);
     }
 
     public class ConsoleOutputHandler : IOutputHandler
@@ -28,6 +31,14 @@ namespace HW__3_Solution.Handlers
                 Console.Write(item + "\n");
            }
            Console.WriteLine();
+        }
+
+        public void Show(List<Contact> contactsList)
+        {
+            foreach (var item in contactsList)
+            {
+                Console.WriteLine(item);
+            }
         }
     }
 
@@ -65,6 +76,18 @@ namespace HW__3_Solution.Handlers
                 foreach (string s in strings)
                 {
                     sw.WriteLine(s);
+                }
+            }
+        }
+
+        public void Show(List<Contact> contactsList)
+        {
+            using (StreamWriter sw = new StreamWriter(_filePath, false, Encoding.UTF8))
+            {
+                foreach (Contact c in contactsList)
+                {
+                    sw.WriteLine(c);
+                    sw.Write("\n");
                 }
             }
         }
